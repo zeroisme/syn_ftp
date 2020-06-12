@@ -1,0 +1,11 @@
+[package]
+name = "syn_ftp"
+version = "0.1.0"
+authors = ["zero <747050097@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cfg-if = "0.1.2"
+time = "0.1.40"
