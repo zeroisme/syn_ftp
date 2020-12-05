@@ -1,1 +1,1 @@
-# syn_ftp
+# Rust by example sync ftp code
